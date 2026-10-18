@@ -1,5 +1,13 @@
-#
-# Problem Statement Link :-
+# Set .union() Operation
+# Problem Statement Link :-  https://www.hackerrank.com/challenges/py-set-union/problem
 
 # Code
 
+_ = int(input())
+SET_N = set(map(int, input().split()))
+
+_ = int(input())
+SET_B = set(map(int, input().split()))
+
+NEW_SET = SET_N.union(SET_B)
+print(len(NEW_SET))
