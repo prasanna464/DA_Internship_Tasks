@@ -1,5 +1,16 @@
-#
-# Problem Statement Link :-
+# Set Mutations
+
+# Problem Statement Link :- https://www.hackerrank.com/challenges/py-set-mutations/problem
 
 # Code
 
+A = int(input())
+SET_A = set(map(int, input().split()))
+N = int(input())
+
+for _ in range(N):
+    operation = input().split()
+    new_set = set(map(int, input().split()))
+    eval('SET_A.{}({})'.format(operation[0], new_set))
+
+print(sum(SET_A))
