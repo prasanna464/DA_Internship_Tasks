@@ -186,8 +186,8 @@ DA-Internship-Tasks/
 
 | Domain | Status |
 |---|---|
-| Python Programming | 🔄 In Progress |
-| SQL | ⏳ Upcoming |
+| Python Programming | ✅ Done |
+| SQL | 🔄 In Progress |
 | Data Analytics & EDA | ⏳ Upcoming |
 | Data Engineering | ⏳ Upcoming |
 | Databricks & Big Data | ⏳ Upcoming |
