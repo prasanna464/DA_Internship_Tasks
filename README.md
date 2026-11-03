@@ -202,8 +202,9 @@ This repository serves as a record of my continuous learning, practical assignme
 
 ## 🤝 Connect With Me
 
-- **GitHub:** [Your GitHub Profile]([https://github.com/](https://github.com/prasanna464/))
-- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/](https://www.linkedin.com/in/prasanna-panchumarthi/))
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/prasanna464)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/prasanna-panchumarthi/)
 
 ---
 
